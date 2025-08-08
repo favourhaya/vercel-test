@@ -1,8 +1,5 @@
 import { useState } from 'react'
 
-import logo from './images/logo.png'
-
-import grad from './images/grad.webp'
 import FadeInOnScroll from './Fadein'
 function Stats() {
   const [count, setCount] = useState(0)

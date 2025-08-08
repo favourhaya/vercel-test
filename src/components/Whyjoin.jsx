@@ -1,8 +1,6 @@
 import { useState } from 'react'
 
-import logo from './images/logo.png'
 
-import grad from './images/alaskarange.jpg'
 import climb from './images/climber.png'
 import arm from './images/Arm.png'
 import communtity from './images/community.png'

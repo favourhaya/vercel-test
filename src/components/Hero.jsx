@@ -1,7 +1,5 @@
 import { useState } from 'react'
 
-import logo from './images/logo.png'
-
 import ala from './images/alaskarange.jpg'
 function Navbar() {
   const [count, setCount] = useState(0)

@@ -1,6 +1,5 @@
 import { useState } from 'react'
 
-import gradient from './images/gra.jpg'
 import FadeInOnScroll from './Fadein'
 function AboutUs() {
   const [count, setCount] = useState(0)

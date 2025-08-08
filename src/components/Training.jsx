@@ -1,7 +1,5 @@
 import { useState } from 'react'
-import climb from './images/climber.png'
-import arm from './images/Arm.png'
-import communtity from './images/community.png'
+
 import FadeInOnScroll from './Fadein'
 
 function Training() {
