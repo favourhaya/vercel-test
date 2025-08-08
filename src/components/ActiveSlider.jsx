@@ -6,10 +6,10 @@ import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
 
-import inter from "./Images/Inter.png";
-import ibls from "./Images/Ibls.jpg";
-import glendo from "./Images/Glendo.png";
-import lympics from "./Images/Climbalympics.png";
+import inter from "./images/Inter.png";
+import ibls from "./images/Ibls.jpg";
+import glendo from "./images/Glendo.png";
+import lympics from "./images/Climbalympics.png";
 
 import FadeInOnScroll from "./Fadein";
 const skills = [
