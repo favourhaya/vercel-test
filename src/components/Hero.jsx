@@ -13,7 +13,7 @@ function Navbar() {
             <div className=" absolute flex mt-30">
                 <div className=" ml-5 mt-5">
                 <div className=''>
-                   <h1 className="text-[120px] ml-37 mt-20 text-[#E37345] leading-30 justify-self-center  bamber-300  w-280 text-center font-bold">  DCU <span className="text-[120px] w-130 font-bold text-[#F0F0F0]  ">rock climbing</span> club</h1>
+                   <h1 className="text-[120px] ml-37 mt-20 text-[#E37345] leading-30 justify-self-center  bamber-300  w-280 text-center font-bold">  DU <span className="text-[120px] w-130 font-bold text-[#F0F0F0]  ">rock climbing</span> club</h1>
                
                     <h2 className='text-3xl text-center ml-20 text-[#F0F0F0] mt-3  w-full'> Reaching new </h2>
                     <h2 className='text-3xl text-center ml-20 text-[#F0F0F0] mt-3 w-full'> heights since 19?? </h2>
