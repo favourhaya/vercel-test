@@ -35,27 +35,27 @@ function Stats() {
 
      <div className=" block  md:hidden ">
 
-        <div className="absolute  w-[480px]  top-175">
+        <div className="absolute  w-100%  top-175">
 
-        <h2 className="text-8xl text-center  text-[#363636] font-bold pt-15 ">Our <span className="text-[#E37345]">Stats</span> </h2>
-        <div className=" flex">
-            <div className="pl-0 b">
-                <h1 className="pl-9  font-bold mt-10 text-6xl text-[#363636]">200</h1>
-                <p className="text-3xl pl-3 text-center text-[#2C84AC]">Current members</p>
+        <h2 className="text-8xl text-center mt-10 text-[#363636] font-bold ">Our <span className="text-[#E37345]">Stats</span> </h2>
+        <div className="mt-20 flex">
+            <div className="">
+                <h1 className="font-bold mt- justify-self-center text-6xl text-[#363636]">200</h1>
+                <p className="text-3xl  text-center text-[#2C84AC]">Current members</p>
             </div>
 
-            <div className="w-px h-35 border-1 mt-10 ml-2"></div>
+            <div className="w-px h-35 border-1 "></div>
 
-             <div className="pl-3">
-                <h1 className="pl-7 font-bold mt-10 text-6xl text-[#363636]">30</h1>
-                <p className="text-3xl pl-1 text-center text-[#2C84AC]">Years running</p>
+             <div className="">
+                <h1 className=" font-bold justify-self-center text-6xl text-[#363636]">30</h1>
+                <p className="text-3xl text-center text-[#2C84AC]">Years running</p>
             </div>
 
-             <div className="w-px h-35 border-1 mt-10 ml-5"></div>
+             <div className="w-px h-35 border-1 "></div>
 
              <div className="pl-0 ">
-                <h1 className="pl-5 font-bold mt-10 text-6xl text-[#363636]">1200</h1>
-                <p className="text-3xl pl-2 text-center text-[#2C84AC]">Instagram followers</p>
+                <h1 className="font-bold justify-self-center text-6xl text-[#363636]">1200</h1>
+                <p className="text-3xl text-center text-[#2C84AC]">Instagram followers</p>
             </div>
 
 

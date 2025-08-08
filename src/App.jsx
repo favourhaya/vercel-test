@@ -29,8 +29,11 @@ function App() {
     <Training/>
     <Whyjoin/>
     <ActiveSlider/>
-      <Faq/>
-     <Cta/>
+    <Faq/>
+    <Cta/>
+
+    
+    
 
 
     </div>

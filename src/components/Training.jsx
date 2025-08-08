@@ -55,26 +55,26 @@ function Training() {
         <p className=" justify-self-center mt-5 text-2xl text-center  ">orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>
 
         </div>
-        <div className="h-160 w-[480px] mt-20  p-2">
+        <div className="h-160 w-[100%] mt-20 ">
 
             <div className="w-100 h-30 ml-10 border-2 shadow-lg bg-[#F0F0F0] text-2xl rounded-2xl">
 
-                <h3 className="mt-1 text-7xl ml-14 font-bold">Monday</h3>
+                <h3 className="mt-1 text-7xl justify-self-center  font-bold">Monday</h3>
                 <p className='ml-1 font-medium text-center text-[#2C84AC] '> 6-8pm (Beginner sessions)</p>
             </div>
 
-            <div className="h-160 w-[480px] mt-10  p-2">
+            <div className="h-160 w-[100%] mt-10  p-2">
 
             <div className="w-100 h-30 ml-8 border-2 shadow-lg bg-[#F0F0F0] text-2xl rounded-2xl">
 
-                <h3 className="mt-1 text-7xl ml-14 font-bold">Tuesday</h3>
+                <h3 className="mt-1 text-7xl justify-self-center  font-bold">Tuesday</h3>
                 <p className='ml-1 font-medium text-3xl text-center text-[#2C84AC] '>  5-8pm</p>
             </div>
- <div className="h-160 w-[480px] mt-10  p-2">
+ <div className="h-160 w-[100%] mt-10  p-2">
 
             <div className="w-100 h-30 ml-6 border-2 shadow-lg bg-[#F0F0F0] text-2xl rounded-2xl">
 
-                <h3 className="mt-1 text-7xl ml-14 font-bold">Monday</h3>
+                <h3 className="mt-1 text-7xl justify-self-center font-bold">Thursday</h3>
              <p className='ml-1 font-medium text-3xl text-center text-[#2C84AC] '>  5-9pm</p>
             </div>
             </div>
