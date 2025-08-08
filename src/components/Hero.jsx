@@ -43,7 +43,7 @@ function Navbar() {
     <img src={ala} alt="" className=" absolute w-full h-160" />
     <div className='bg-black absolute h-160 w-full opacity-25'></div>
     
-    <div className="absolute text-[90px] text-[#f0f0f0] leading-25 pt-30 text-center font-bold">DCU <span className="text-[#e37e45]">rock climbing </span> club</div>
+    <div className="absolute text-[90px] text-[#f0f0f0] leading-25 pt-30 text-center font-bold">DC <span className="text-[#e37e45]">rock climbing </span> club</div>
           <h2 className='absolute text-3xl text-center ml-2 text-[#F0F0F0] pt-110  w-[490px]'> Reaching new </h2>
                 <h2 className='absolute text-3xl text-center ml-5 text-[#F0F0F0] mt-120 w-[480px]'> heights since 19?? </h2>
                   <button className=" absolute mt-135 hover:text-[#F0F0F0] hover:bg-[#2C84AC]    w-50 h-14 text-4xl text-[#2C84AC] ml-40 font-bld rounded-lg bg-[#F0F0F0]  transform transition-all duration-300 hover:scale-105  hover:shadow-2xl hover:transform-y-1 hover:opacity-90"><a href='https://dcuclubsandsocs.ie/club/rock-climbing'> Join now</a></button>
