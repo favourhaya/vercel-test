@@ -13,7 +13,7 @@ function Navbar() {
             <div className=" absolute flex mt-30">
                 <div className=" ml-5 mt-5">
                 <div className=''>
-                   <h1 className="text-[120px] ml-37 mt-20 text-[#E37345] leading-30 justify-self-center  bamber-300  w-280 text-center font-bold">  DU <span className="text-[120px] w-130 font-bold text-[#F0F0F0]  ">rock climbing</span> club</h1>
+                   <h1 className="text-[120px] ml-37 mt-20 text-[#E37345] leading-30 justify-self-center    w-280 text-center font-bold">  DU <span className="text-[120px] w-130 font-bold text-[#F0F0F0]  ">rock climbing</span> club</h1>
                
                     <h2 className='text-3xl text-center ml-20 text-[#F0F0F0] mt-3  w-full'> Reaching new </h2>
                     <h2 className='text-3xl text-center ml-20 text-[#F0F0F0] mt-3 w-full'> heights since 19?? </h2>
@@ -44,7 +44,7 @@ function Navbar() {
     <img src={ala} alt="" className=" absolute w-[100%] h-160" />
     <div className='bg-black absolute h-160 w-[100%] opacity-25'></div>
     
-    <div className="absolute text-8xl text-[#f0f0f0] leading-25 pt-30 text-center font-bold">DCU <span className="text-[#e37e45]">rock climbing </span> club</div>
+    <div className="absolute text-8xl text-[#f0f0f0] leading-25 pt-30 text-center font-bold">DC <span className="text-[#e37e45]">rock climbing </span> club</div>
           <h2 className='absolute text-3xl text-center  text-[#F0F0F0] pt-110  w-[100%]'> Reaching new </h2>
                 <h2 className='absolute text-3xl text-center text-[#F0F0F0] mt-120 w-[100%]'> heights since 19?? </h2>
                   <button className=" absolute flex justify-self-center pt-1 pl-7 mt-135 hover:text-[#F0F0F0] hover:bg-[#2C84AC]    w-50 h-14 text-4xl text-[#2C84AC]  font-bld rounded-lg bg-[#F0F0F0]  transform transition-all duration-300 hover:scale-105  hover:shadow-2xl hover:transform-y-1 hover:opacity-90"><a href='https://dcuclubsandsocs.ie/club/rock-climbing'> Join now</a></button>
