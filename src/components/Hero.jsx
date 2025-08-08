@@ -38,10 +38,10 @@ function Navbar() {
 
          <div className=" block md:hidden ">
 
-<div className="  ">
+<div className="">
     
-    <img src={ala} alt="" className=" absolute w-500 h-160" />
-    <div className='bg-black absolute h-160 w-[500px] opacity-25'></div>
+    <img src={ala} alt="" className=" absolute w-full h-160" />
+    <div className='bg-black absolute h-160 w-full opacity-25'></div>
     
     <div className="absolute text-[90px] text-[#f0f0f0] leading-25 pt-30 text-center font-bold">DCU <span className="text-[#e37e45]">rock climbing </span> club</div>
           <h2 className='absolute text-3xl text-center ml-2 text-[#F0F0F0] pt-110  w-[490px]'> Reaching new </h2>

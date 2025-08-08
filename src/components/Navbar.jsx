@@ -42,7 +42,7 @@ function Navbar() {
 
 
 
-      <div className="block fixed z-50 md:hidden w-[500px] bg-[#F0F0F0]">
+      <div className="block fixed z-50 md:hidden w-[500px] bg-[#F0F0F0] w-full">
         
 
 <nav class="border">

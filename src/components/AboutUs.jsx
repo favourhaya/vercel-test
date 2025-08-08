@@ -51,14 +51,14 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa
     </div>
 
 
-    <div className="block md:hidden">
+    <div className="block  justify-items-center center md:hidden">
         
         <div className="absolute top-300 text-center  text-[#363636] w-[480px] ">
             <hr className="" />
         <h1 className="text-8xl mt-20 font-bold">About <span className="text-[#e37e45]">us</span></h1>
 
         
-<div className="h-80 justify-self-center mt-5  w-[460px] bg-white"></div>
+<div className="h-80 mt-5  m-10 bg-white"></div>
         <p className="text-2xl mt-5 p-3  font-">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
