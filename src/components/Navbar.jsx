@@ -49,7 +49,7 @@ function Navbar() {
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     <a href="#" className="flex items-center space-x-3 rtl:space-x-reverse">
         <img src={logo} class="h-15" alt="Flowbite Logo" />
-        <span class="ml-3  text-center text-[160%] text-[#2C84AC]">Dcu rock climbing</span>
+        <span class="ml-3  text-center text-[160%] text-[#2C84AC]">Dcc rock climbing</span>
     </a>
     <button data-collapse-toggle="navbar-dropdown" type="button" className="inline-flex items-center p-2 w-10 h-10 ">
         <span class="sr-only">Open main menu</span>
