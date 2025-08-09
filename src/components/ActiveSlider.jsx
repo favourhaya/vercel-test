@@ -23,7 +23,7 @@ const LoopingSlider = () => {
   return (
     <div>
        
-       <hr className=" hidden md:flex aboslute mt-180" />
+       <hr className=" hidden md:flex aboslute mt-10" />
 
     <div className="hidden md:flex w-full  justify-center mt-10 py-20">
         
@@ -84,9 +84,9 @@ const LoopingSlider = () => {
 
 
 
-        <div className="block md:hidden absolute w-[480px] top-1200 ">
-            <hr className="" />
-        <h1 className="text-8xl text-[#363636] font-bold mt-25 text-center">Trips and <span className="text-[#E37345]"> Events</span></h1>
+        <div className="block md:hidden absolute w-[100%] top-1200 ">
+            <hr className="mt-15" />
+        <h1 className="text-[530%] leading-20 text-[#363636] font-bold mt-25 text-center">Trips and <span className="text-[#E37345]"> Events</span></h1>
         
         <div className="mt-20 ml-3 ">
                 <Swiper

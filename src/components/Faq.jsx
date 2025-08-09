@@ -140,7 +140,7 @@ function Faq() {
         <FadeInOnScroll>
         <div className="mt-30  h-200">
             <hr className="mt-20 mb-20" />
-        <h1 className='text-center font-bold text-[#363636] text-8xl
+        <h1 className='text-center  leading-20 font-bold text-[#363636] text-[450%]
          '>Frequently asked <span className="text-[#E37345]">questions</span></h1>
         <section className="mt-10 p-5 h-100 drop-shadow-2xl">
 

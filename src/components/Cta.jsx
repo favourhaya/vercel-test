@@ -25,8 +25,8 @@ function Cta() {
 
 
 
-     <footer className="block absolute top-1650 md:hidden bg-[#363636] text-[#F0F0F0] py-15 mt-20">
-      <div className="w-[485px] mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
+     <footer className="block w-[100%]  absolute top-1650 md:hidden bg-[#363636] text-[#F0F0F0] py-15 mt-20">
+      <div className=" px-4 flex flex-col md:flex-row justify-between items-center">
         
         {/* Left Side */}
         <div className="mb-4 md:mb-0 text-center md:text-left">

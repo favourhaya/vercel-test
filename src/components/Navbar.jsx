@@ -42,14 +42,14 @@ function Navbar() {
 
 
 
-      <div className="block fixed z-50 md:hidden w-[500px] bg-[#F0F0F0] w-full">
+      <div className="block fixed z-50 md:hidden  bg-[#F0F0F0] w-full">
         
 
 <nav class="border">
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     <a href="#" className="flex items-center space-x-3 rtl:space-x-reverse">
         <img src={logo} class="h-15" alt="Flowbite Logo" />
-        <span class=" ml-5 justify-self-center text-3xl text-[#2C84AC]">DCU rock climbing </span>
+        <span class="ml-3  text-center text-[160%] text-[#2C84AC]">Dcu rock climbing</span>
     </a>
     <button data-collapse-toggle="navbar-dropdown" type="button" className="inline-flex items-center p-2 w-10 h-10 ">
         <span class="sr-only">Open main menu</span>
