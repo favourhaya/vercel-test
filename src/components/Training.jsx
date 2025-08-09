@@ -59,23 +59,23 @@ function Training() {
 
             <div className="w-[92%] justify-self-center h-30 border-2 shadow-lg bg-[#F0F0F0] text-2xl rounded-2xl">
 
-                <h3 className="mt-1 text-7xl justify-self-center  font-bold">Monday</h3>
-                <p className='ml-1 font-medium text-center text-[#2C84AC] '> 6-8pm (Beginner sessions)</p>
+                <h3 className=" text-[260%] text-center  font-bold">Monday</h3>
+                <p className='ml- font-medium text-center text-[#2C84AC] '> 6-8pm (Beginner sessions)</p>
             </div>
 
             <div className="h-160 w-[100%] mt-10  ">
 
             <div className="w-[96%] justify-self-center h-30 border-2 shadow-lg bg-[#F0F0F0] text-2xl rounded-2xl">
 
-                <h3 className="mt-1 text-7xl justify-self-center  font-bold">Tuesday</h3>
-                <p className='ml-1 font-medium text-3xl text-center text-[#2C84AC] '>  5-8pm</p>
+                <h3 className=" text-[260%] text-center   font-bold">Tuesday</h3>
+                <p className='ml- font-medium text-3xl text-center text-[#2C84AC] '>  5-8pm</p>
             </div>
  <div className="h-160 w-[100%] mt-10  ">
 
             <div className="w-[100%] justify-self-center h-30 border-2 shadow-lg bg-[#F0F0F0] text-2xl rounded-2xl">
 
-                <h3 className="mt-1 text-7xl justify-self-center font-bold">Thursday</h3>
-             <p className='ml-1 font-medium text-3xl text-center text-[#2C84AC] '>  5-9pm</p>
+                <h3 className=" text-[260%] text-center font-bold">Thursday</h3>
+             <p className='ml- font-medium text-3xl text-center text-[#2C84AC] '>  5-9pm</p>
             </div>
             </div>
 </div>
