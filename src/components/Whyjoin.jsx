@@ -74,24 +74,24 @@ function Whyjoin() {
 
 
 
-    <div className=" absolute top-850 block h-150 md:hidden justify-items-center w-[100%] text-[#363636]">
-        <hr className="" />
+    <div className=" absolute  top-850 block h-150 md:hidden justify-items-center w-[100%] text-[#363636]">
+        <hr className="w-[100%]" />
         <h2 className="text-[470%] w-[100%] text-center font-bold mt-25">Why <span className="text-[#E37345]">Join?</span></h2>
 
-          <div className="w-[100%]">
-          <img src={climb} alt="" className="w-[75%] justify-self-center  mt-10 h-60" />
+          <div className="w-[100%] justify-items-center">
+          <img src={climb} alt="" className="w-[75%]   mt-10 h-60" />
        </div>
         <div className="text-[#2C84AC] text-center text-4xl w-[100%]">challange yourself</div>
         <p className="text-center  w-[100%]">asdfaoisufdiuazsgej\fwgfasadkjas bfiuabnsunefnaynwiebgcqfauwfygqbui jkcbjfkhknausjgbnicgbui qncu</p>
 
-        <div className="w-[100%]">
-        <img src={arm} alt="" className="w-[50%] mt-10 justify-self-center h-45" />
+        <div className="w-[100%] justify-items-center">
+        <img src={arm} alt="" className="w-[50%] mt-10 h-45" />
        </div>
         <div className="text-[#2C84AC] text-center w-[100%] text-4xl">Stay fit</div>
         <p className="text-center w-[100%]">asdfaoisufdiuazsgej\fwgfasadkjas bfiuabnsunefnaynwiebgcqfauwfygqbui jkcbjfkhknausjgbnicgbui qncu</p>
 
-        <div className="w-[100%]">
-        <img src={communtity} alt="" className="w-[50%] justify-self-center mt-10 h-50" />
+        <div className="w-[100%] justify-items-center">
+        <img src={communtity} alt="" className="w-[50%]  mt-10 h-50" />
         </div>
         <div className="text-[#2C84AC] text-center w-[100%]  text-4xl">Amazing community</div>
         <p className="text-center w-[100%]">asdfaoisufdiuazsgej\fwgfasadkjas bfiuabnsunefnaynwiebgcqfauwfygqbui jkcbjfkhknausjgbnicgbui qncu</p>

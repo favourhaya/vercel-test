@@ -55,7 +55,7 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa
         
         <div className="absolute top-300 text-center  text-[#363636] w-[100%] ">
             <hr className="" />
-        <h1 className="text-[400%] mt-20 font-bold">About <span className="text-[#e37e45]">us</span></h1>
+        <h1 className="text-[550%] leading-20 w-full mt-20 font-bold">About <span className="text-[#e37e45]">us</span></h1>
 
         
 <div className="h-80 mt-5  m-10 bg-white"></div>

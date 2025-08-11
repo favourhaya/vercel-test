@@ -39,23 +39,23 @@ function Stats() {
 
         <h2 className="text-[500%] text-center mt-10 text-[#363636] font-bold ">Our <span className="text-[#E37345]">Stats</span> </h2>
         <div className="mt-10 flex">
-            <div className="">
-                <h1 className="font-bold justify-self-center text-[350%] text-[#363636]">200</h1>
-                <p className="text-[150%]  text-center text-[#2C84AC]">Current members</p>
+            <div className="text-center">
+                <h1 className="font-bold text-[350%] text-[#363636]">200</h1>
+                <p className="text-[150%]   text-[#2C84AC]">Current members</p>
             </div>
 
             <div className="w-px mr-2 h-35 border-1 "></div>
 
-             <div className="">
-                <h1 className=" font-bold justify-self-center  text-[350%] text-[#363636]">30</h1>
-                <p className="text-[150%] text-center text-[#2C84AC]">Years running</p>
+             <div className="text-center">
+                <h1 className=" font-bold   text-[350%] text-[#363636]">30</h1>
+                <p className="text-[150%]  text-[#2C84AC]">Years running</p>
             </div>
 
              <div className="w-px h-35 -2 border-1 "></div>
 
-             <div className="pl-0 ">
-                <h1 className="font-bold justify-self-center  text-[350%] text-[#363636]">1200</h1>
-                <p className="text-[150%] text-center text-[#2C84AC]">Instagram followers</p>
+             <div className="text-center">
+                <h1 className="font-bold  text-[350%] text-[#363636]">1200</h1>
+                <p className="text-[150%]  text-[#2C84AC]">Instagram followers</p>
             </div>
 
 
