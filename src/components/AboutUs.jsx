@@ -55,6 +55,7 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa
         
         <div className="absolute top-300 text-center  text-[#363636] w-[100%] ">
             <hr className="" />
+         <FadeInOnScroll>
         <h1 className="text-[550%] leading-20 w-full mt-20 font-bold">About <span className="text-[#e37e45]">us</span></h1>
 
         
@@ -77,11 +78,11 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa
 </p>
 
    <button className="mt-5 w-[80%] h-15  text-[#F0F0F0] font-bld rounded-lg justify-self-center bg-[#2C84AC] text-3xl transform transition-all duration-300 hover:scale-105  hover:shadow-2xl hover:transform-y-1 hover:opacity-90"> <a href="#" className="">Meet the committee</a></button>
-
+</FadeInOnScroll>
         </div>
 
 
-
+   
     </div>
    
    </>

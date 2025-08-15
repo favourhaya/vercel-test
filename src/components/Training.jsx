@@ -7,12 +7,13 @@ function Training() {
 
   return (
     <>
-    <FadeInOnScroll>
+    
 
 <div className=" hidden md:block mt-40 h-180  text-[#363636] ">
     <hr className="" />
 
         <div className='flex'>
+            <FadeInOnScroll>
 
         <div className="h-160 w-7/8 m-20 p-2">
 
@@ -39,8 +40,9 @@ function Training() {
         <div className="mr-85 mt-7">
         <h2 className="text-[165px] leading-40 mt-12 text-[#363636] font-bold">Training<span className="text-[#E37345] "> sessions</span></h2>
         <p className=" justify-self-center mt-5 text-2xl text-center w-150 ">orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>
-
+        
         </div>
+        </FadeInOnScroll>
         </div>
 
 </div>
@@ -50,6 +52,7 @@ function Training() {
 
 <div className=" block absolute w-[100%] top-520 md:hidden mt-40 h-180  text-[#363636] ">
       <hr className="mt-30" />
+      <FadeInOnScroll>
        <div className=" center text-center mt-7">
         <h2 className="text-[550%] leading-20 w-full mt-30 text-[#363636] font-bold">Training<span className="text-[#E37345] "> sessions</span></h2>
         <p className=" justify-self-center mt-5 text-[100%]  ">orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>
@@ -80,10 +83,10 @@ function Training() {
             </div>
 </div>
         </div>
-       
+       </FadeInOnScroll>
 
 </div>
-</FadeInOnScroll>
+
   
     </>
   )

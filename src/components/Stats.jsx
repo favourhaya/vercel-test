@@ -6,8 +6,9 @@ function Stats() {
 
   return (
     <>
-       <FadeInOnScroll>
+
 <div className="hidden md:block mt-210   h-100">
+    <FadeInOnScroll>
 
         <h2 className="text-8xl text-[#363636] justify-self-center font-bold pt- ">Our <span className="text-[#E37345]">Stats</span> </h2>
 
@@ -29,6 +30,8 @@ function Stats() {
             </div>
         </div>
 
+   
+   </FadeInOnScroll>
      </div>
 
 
@@ -36,6 +39,7 @@ function Stats() {
      <div className=" block  md:hidden ">
 
         <div className="absolute  w-100%  top-175">
+            <FadeInOnScroll>
 
         <h2 className="text-[500%] text-center mt-10 text-[#363636] font-bold ">Our <span className="text-[#E37345]">Stats</span> </h2>
         <div className="mt-10 flex">
@@ -59,12 +63,12 @@ function Stats() {
             </div>
 
 
-
+        
         </div>
-
+</FadeInOnScroll>
 </div>
      </div>
-      </FadeInOnScroll>
+
     </>
   )
 }

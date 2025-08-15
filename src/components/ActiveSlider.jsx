@@ -85,6 +85,7 @@ const LoopingSlider = () => {
 
 
         <div className="block md:hidden absolute w-[100%] top-1200 ">
+          <FadeInOnScroll>
             <hr className="mt-15" />
         <h1 className="text-[530%] leading-20 text-[#363636] font-bold mt-25 text-center">Trips and <span className="text-[#E37345]"> Events</span></h1>
         
@@ -130,8 +131,9 @@ const LoopingSlider = () => {
           ))}
         </Swiper>
         </div>
+        </FadeInOnScroll>
         </div>
-  
+
     </div>
   );
 };
