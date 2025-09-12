@@ -44,7 +44,7 @@ function Navbar() {
     <img src={ala} alt="" className=" absolute  w-[100%] h-160 object-cover" />
     <div className='bg-black absolute h-160 w-[100%] opacity-45'></div>
     
-    <div className="absolute text-[450%] text-[#f0f0f0] leading-25 pt-30 text-center font-bold">DC <span className="text-[#e37e45]">rock climbing </span> club</div>
+    <div className="absolute text-[450%] text-[#f0f0f0] leading-25 pt-30 text-center font-bold">DCU <span className="text-[#e37e45]">rock climbing </span> club</div>
           <h2 className='absolute text-3xl text-center  text-[#F0F0F0] pt-110  w-[100%]'> Reaching new </h2>
                 <h2 className='absolute text-3xl text-center text-[#F0F0F0] mt-120 w-[100%]'> heights since 19?? </h2>
                   <div className=" w-[100%] flex justify-center ">

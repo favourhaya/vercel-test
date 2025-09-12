@@ -23,9 +23,9 @@ const LoopingSlider = () => {
   return (
     <div>
        
-       <hr className=" hidden md:flex aboslute mt-150" />
+       <hr className=" hidden md:flex aboslute mt-180" />
 
-    <div className="hidden md:flex w-full  justify-center mt-35 py-20">
+    <div className="hidden md:flex w-full  justify-center mt-15 py-20">
         
 
 <FadeInOnScroll>

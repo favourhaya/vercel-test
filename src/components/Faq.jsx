@@ -160,8 +160,7 @@ function Faq() {
           <Typography className="font-extrabold  text-white" component="span">Do you provide equipment?</Typography>
         </AccordionSummary>
         <AccordionDetails className='h-20    '>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-          malesuada lacus ex, sit amet blandit leo lobortis eget.
+         Yes the hall has chalk bags and shoes for everyone to use!
         </AccordionDetails>
       </Accordion>
 
@@ -184,8 +183,7 @@ function Faq() {
           <Typography className='text-white' component="span">Are none DCU students allowed to join?</Typography>
         </AccordionSummary>
         <AccordionDetails className='h-20'>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-          malesuada lacus ex, sit amet blandit leo lobortis eget.
+          The DCU rockclimbing gym is open to anyone who is pays the membership. Feel free to bring your friends along!
         </AccordionDetails>
       </Accordion>
 
@@ -214,8 +212,7 @@ function Faq() {
           <Typography className='text-white' component="span">Do you do rope climbing ?</Typography>
         </AccordionSummary>
         <AccordionDetails className='h-20'>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-          malesuada lacus ex, sit amet blandit leo lobortis eget.
+         Yes. We hold rope climbing during sessions on a weekly basis.
         </AccordionDetails>
       </Accordion>
 
@@ -242,8 +239,7 @@ function Faq() {
           <Typography className="text-white" component="span">Do you sell merch? </Typography>
         </AccordionSummary>
         <AccordionDetails className='h-20'>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-          malesuada lacus ex, sit amet blandit leo lobortis eget.
+         Yes we still have stickers available to purchase. As well as that we are planning on releasing hoodies this year too!
         </AccordionDetails>
       </Accordion>
 

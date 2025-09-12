@@ -17,26 +17,25 @@ function AboutUs() {
 
             <section className="absolute left-25 top-380 h-110 w-200 bg-white border-2"> </section>
                 
-            <section className="absolute left-250 top-365">
+            <section className="absolute left-250 top-350">
                  <FadeInOnScroll>
-                <h2 className="text-8xl w-120  text-[#363636] font-bold ml-">About <span className="text-[#E37E45]">Us</span></h2>
+                <h2 className="text-8xl w-120 ml-[10%] text-[#363636] font-bold ml-">About <span className="text-[#E37E45]">Us</span></h2>
 
                 <div className="  rounded-2xl h-108 w-110 ">
 
-                    <p className="text-3xl  w-130 pl- font-bod  text-[#363636]  p-4 ">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
+                    <p className="text-2xl  w-130 pl- font-bod  text-[#363636]  p-4 ">
+                        The DCU Rock Climbing Club is a welcoming community for climbers of all levels, from complete beginners to experienced adventurers.
+<br/>
+<br/>
+
+We train indoors in our hall in dcu, focusing on skill, safety, and teamwork, while also running trips, events, and socials throughout the year. 
 
                         <br/>
 <br/>
-
-eiusmod tempor incididunt ut labore 
-
-et dolore magna aliqua. Ut enim ad minim veniam, 
-<br/>
 <br/>
 
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa.
 
+Whether you’re looking for a new challenge or just a fun way to meet people, come climb with us!
                     </p>
                     <button className="mt-5 w-80 h-12.5  text-[#F0F0F0] font-bld rounded-lg ml-20 bg-[#2C84AC] text-3xl transform transition-all duration-300 hover:scale-105  hover:shadow-2xl hover:transform-y-1 hover:opacity-90 hover:bg-[#F0F0F0] hover:text-[#2C84AC]"> <a href="#" className="">Meet the committee</a></button>
                 </div>
@@ -60,25 +59,23 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa
 
         
 <div className="h-80 mt-5  m-10 bg-white"></div>
-        <p className="text-2xl mt-5 p-3  font-">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-
-
+        <p className="text-2xl mt-5 p-3  font-">DCU Rock Climbing Club is a welcoming community for climbers of all levels, from complete beginners to experienced adventurers.
 <br/>
 <br/>
 
-eiusmod tempor incididunt ut labore 
+We train indoors in our hall in dcu, focusing on skill, safety, and teamwork, while also running trips, events, and socials throughout the year. 
 
-et dolore magna aliqua. Ut enim ad minim veniam, 
+                        <br/>
 <br/>
 <br/>
 
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa.
+
+Whether you’re looking for a new challenge or just a fun way to meet people, come climb with us!
 </p>
 
-   <button className="mt-5 w-[80%] h-15  text-[#F0F0F0] font-bld rounded-lg justify-self-center bg-[#2C84AC] text-3xl transform transition-all duration-300 hover:scale-105  hover:shadow-2xl hover:transform-y-1 hover:opacity-90"> <a href="#" className="">Meet the committee</a></button>
+   <button className="mt-5 w-[80%] h-15  text-[#F0F0F0] font-bold rounded-lg justify-self-center bg-[#2C84AC] text-3xl  transform transition-all duration-300 hover:scale-105  hover:shadow-2xl hover:transform-y-1 hover:opacity-90 hover:bg-[#F0F0F0] hover:text-[#2C84AC]"> <a href="#" className="">Meet the committee</a></button>
 </FadeInOnScroll>
+
         </div>
 
 

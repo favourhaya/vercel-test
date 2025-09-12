@@ -27,9 +27,8 @@ function Whyjoin() {
                 
                  <img src={climb} alt="" className="w-7/8 justify-self-center   h-50" />
                <h4 className="text-3xl text-center text-[#2C84AC]">Challange yourself</h4>
-               <p className="text-center mt-2">asdfaoisufdiuazsgej\fwgfasadkjas
-                bfiuabnsunefnaynwiebgcqfauwfygqbui
-                jkcbjfkhknausjgbnicgbui qncu </p>
+               <p className="text-center mt-2 font-medium text-lg">Climbing is more than a workout. It’s a mental and physical test. Every route is a new problem to solve, 
+                helping you grow stronger, sharper, and more confident.</p>
             </div>
             </FadeInOnScroll>
 
@@ -42,9 +41,8 @@ function Whyjoin() {
                 
               <img src={arm} alt="" className=" w-5/8 justify-self-center h-40" />
                <h4 className="text-3xl pt-9 text-[#2C84AC] text-center">Stay fit</h4>
-               <p className="text-center mt-2">asdfaoisufdiuazsgej\fwgfasadkjas
-                bfiuabnsunefnaynwiebgcqfauwfygqbui
-                jkcbjfkhknausjgbnicgbui qncu </p>
+               <p className="text-center mt-2 font-medium text-lg">Build strength, flexibility, and endurance while having fun. Climbing works your whole body and 
+                keeps you active in a way that never feels like a chore. </p>
             </div>
              </FadeInOnScroll>
 
@@ -58,9 +56,7 @@ function Whyjoin() {
 
                <img src={communtity} alt="" className=" w-5/8 justify-self-center   h-50" />
                <h4 className="text-3xl pt- text-[#2C84AC] text-center">Amazing community</h4>
-               <p className="text-center ">asdfaoisufdiuazsgej\fwgfasadkjas
-                bfiuabnsunefnaynwiebgcqfauwfygqbui
-                jkcbjfkhknausjgbnicgbui qncu </p>
+               <p className="text-center font-medium text-lg ">Be part of a welcoming group that encourages and inspires you. From indoor sessions to outdoor trips, you’ll make friends and share unforgettable adventures. </p>
                    </FadeInOnScroll>
             </div>
          
@@ -79,22 +75,24 @@ function Whyjoin() {
         <h2 className="text-[470%] w-[100%] text-center font-bold mt-25">Why <span className="text-[#E37345]">Join?</span></h2>
 
           <div className="w-full grid place-items-center">
-          <img src={climb} alt="" className="w-[75%]   mt-10 h-60" />
+          <img src={climb} alt="" className="w-[75%]  mt-10 h-60" />
        </div>
         <div className="text-[#2C84AC] text-center text-4xl w-[100%]">challange yourself</div>
-        <p className="text-center  w-[100%]">asdfaoisufdiuazsgej\fwgfasadkjas bfiuabnsunefnaynwiebgcqfauwfygqbui jkcbjfkhknausjgbnicgbui qncu</p>
+        <p className="text-center   font-medium text-lg  w-[90%]">Climbing is more than a workout. It’s a mental and physical test. Every route is a new problem to solve, 
+                helping you grow stronger, sharper, and more confident.</p>
 
         <div className="w-full  grid place-items-center">
         <img src={arm} alt="" className="w-[50%] mt-10 h-45" />
        </div>
         <div className="text-[#2C84AC] text-center w-[100%] text-4xl">Stay fit</div>
-        <p className="text-center w-[100%]">asdfaoisufdiuazsgej\fwgfasadkjas bfiuabnsunefnaynwiebgcqfauwfygqbui jkcbjfkhknausjgbnicgbui qncu</p>
+        <p className="text-center font-medium text-lg  w-[90%]">Build strength, flexibility, and endurance while having fun. Climbing works your whole body and 
+                keeps you active in a way that never feels like a chore.</p>
 
         <div className="w-full  grid place-items-center">
         <img src={communtity} alt="" className="w-[50%]  mt-10 h-50" />
         </div>
         <div className="text-[#2C84AC] text-center w-[100%]  text-4xl">Amazing community</div>
-        <p className="text-center w-[100%]">asdfaoisufdiuazsgej\fwgfasadkjas bfiuabnsunefnaynwiebgcqfauwfygqbui jkcbjfkhknausjgbnicgbui qncu</p>
+        <p className="text-center  font-medium text-lg  w-[90%]">Be part of a welcoming group that encourages and inspires you. From indoor sessions to outdoor trips, you’ll make friends and share unforgettable adventures.</p>
     </div>
     </>
   )
