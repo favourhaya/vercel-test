@@ -13,19 +13,19 @@ function Whyjoin() {
   return ( 
     <>
     
-<div className=" text-[#363636] hidden md:block">
-<hr className='mt-40'/>
+<div className=" text-[#363636] hidden md:block ">
+<hr className='mt-80'/>
 
 <FadeInOnScroll>
         <h2 className=" absolute  mt- text-8xl justify-self-center  text-[#363636] font-bold pt-20 ">Why <span className="text-[#E37345]">Join ?</span> </h2>
        </FadeInOnScroll>
 
         <div className="absolute   top-225">
-        <div className="absolute  left-50 rounded-2xl w-75 h-90 mt-15 bg-[#F0F0F0] top-575">
+        <div className="absolute  left-50 rounded-2xl w-75 h-90 mt-10 bg-[#F0F0F0] top-620">
              <FadeInOnScroll>
             <div className="   ">
                 
-                 <img src={climb} alt="" className="w-7/8 justify-self-center  mt-5 h-50" />
+                 <img src={climb} alt="" className="w-7/8 justify-self-center   h-50" />
                <h4 className="text-3xl text-center text-[#2C84AC]">Challange yourself</h4>
                <p className="text-center mt-2">asdfaoisufdiuazsgej\fwgfasadkjas
                 bfiuabnsunefnaynwiebgcqfauwfygqbui
@@ -36,11 +36,11 @@ function Whyjoin() {
         </div>
 
              
-         <div className="absolute left-140 bg-[#F0F0F0] mt-15 rounded-2xl w-75 h-90 top-575">
+         <div className="absolute left-140 bg-[#F0F0F0] mt-10 rounded-2xl w-75 h-90 top-620">
             <FadeInOnScroll>
              <div className="mb-2  ">
                 
-              <img src={arm} alt="" className=" w-5/8 justify-self-center mt-5 h-40" />
+              <img src={arm} alt="" className=" w-5/8 justify-self-center h-40" />
                <h4 className="text-3xl pt-9 text-[#2C84AC] text-center">Stay fit</h4>
                <p className="text-center mt-2">asdfaoisufdiuazsgej\fwgfasadkjas
                 bfiuabnsunefnaynwiebgcqfauwfygqbui
@@ -51,8 +51,8 @@ function Whyjoin() {
 
          </div>
 
-         <div className="absolute left-230  bg-[#F0F0F0] mt-15 rounded-2xl w-75 h-90 top-575">
-             <div className="mt-4  ">
+         <div className="absolute left-230  bg-[#F0F0F0] mt-10 rounded-2xl w-75 h-90 top-620">
+             <div className="mt-  ">
                 <FadeInOnScroll>
                 
 
@@ -78,7 +78,7 @@ function Whyjoin() {
         <hr className="w-[100%]" />
         <h2 className="text-[470%] w-[100%] text-center font-bold mt-25">Why <span className="text-[#E37345]">Join?</span></h2>
 
-          <div className="w-full  grid place-items-center">
+          <div className="w-full grid place-items-center">
           <img src={climb} alt="" className="w-[75%]   mt-10 h-60" />
        </div>
         <div className="text-[#2C84AC] text-center text-4xl w-[100%]">challange yourself</div>
